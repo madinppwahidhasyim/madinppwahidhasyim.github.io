@@ -1,0 +1,37 @@
+No	Nama
+1	A. Afif Dzulkifli
+2	Abdul Hakam Najah
+3	Achmad Chata Ainal Chan
+4	Adi Setiawan
+5	Ahmad Khusaini
+6	Ahmad Shofiyullah Fahmi
+7	Ahmad Syamsudin
+8	Amin Nur Achmad
+9	Arifin Kusuma Wardani
+10	Bahrul Mukhit
+11	Bubun Baehaqi
+12	Darul Ilham
+13	Faif Maulana Habibi
+14	Fauzul Iman Muzayid
+15	Fikri Mahdi
+16	Irfan Fachrudin
+17	Irfan Fuady
+18	Jayyidan
+19	M. Affanul Halim
+20	M. Iqbal Maulana
+21	M. Muhclas Ade Putra
+22	M. Pengkuh Wedhono Jati
+23	M. Yusuf Efendi
+24	Mochamad Hasbi
+25	Mochammad Arju Rohmatulloh
+26	Muhammad Alfi Syahrin
+27	Nanang Ardhyansa
+28	Nur Cholis
+29	Nur Huda
+30	Nur Muhammad Syarif
+31	Nur Sahid
+32	Nurul Ikhwani
+33	Puri Jatmika
+34	Sukron Muzamil
+35	Thoriq Salman Aziz
+36	Toyib Nur Hamid
