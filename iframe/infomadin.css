@@ -319,7 +319,7 @@ HEADER
 #header {
 	position: relative;
 	min-height: 150px;
-	padding-top: 60px;
+	padding-top: 0px;
 	border-bottom: solid 2px #000;
 	z-index: 1000;
 }
@@ -472,7 +472,7 @@ MAIN NAVIGATION
 *************************************************************************************/
 .main-nav {
 	margin: 20px auto 5px;
-	padding: 10px 0 0;
+	padding: 0px 0 0;
 	z-index: 100;
 	border-top: solid 1px #ccc;
 	width: 84%;
@@ -576,13 +576,13 @@ SLIDER
 }
 /* header slider */
 #header-slider {
-	border-bottom: solid 1px #666;
+	border-bottom: solid 0px #666;
 }
 
 /* footer slider */
 #footer-slider {
 	clear: both;
-	border-top: solid 1px #666;
+	border-top: solid 0px #666;
 	padding-top: 20px;
 	margin-top: 20px;
 }
@@ -595,7 +595,7 @@ SLIDER
 
 /* slider general style */
 .slider {
-	margin-top: 20px;
+	margin-top: 00px;
 	padding-bottom: 10px;
 }
 .slider .slides {
@@ -1473,7 +1473,7 @@ FOOTER
 /* footer nav */
 .footer-nav {
 	margin: 0 auto 20px;
-	padding: 15px 0 0;
+	padding: 0px 0 0;
 	border-top: solid 1px #ccc;
 	width: 86%;
 	text-align: center;
@@ -1516,7 +1516,7 @@ FOOTER
 	font: normal 16px/100% "Times New Roman", Times, serif;
 	width: 30px;
 	height: 26px;
-	padding-top: 4px;
+	padding-top: 0px;
 	text-align: center;
 	text-decoration: none;
 	display: inline-block;
